@@ -1,0 +1,165 @@
+
+
+@media screen and (max-width: 440px) {
+
+
+*{
+    text-decoration: none;
+}
+
+.banner {
+    left: 5%;
+}    
+
+.banner h1 {
+    font-size: 2.5rem;
+    margin-bottom: 8rem;
+    line-height: 5rem;
+    max-width: 100%; 
+}
+
+.img-wrapper img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.5;
+    animation: zoom 10s;
+}
+@keyframes zoom {
+    0% {
+        transform: scale(1.4);
+    }
+    100% {
+        transform: scale(1);
+    }
+}
+
+.hamburguer {
+    right: 1rem;
+}
+
+.sidebar {
+    
+    height: 80vh;
+    
+}
+
+.show-menu .hamburguer {
+    right: 1rem;    
+}
+
+.sessao-header h1 {
+    font-size: 2.5rem;
+}
+
+.conhecimento-header h3 {
+    font-family: var(--font-secundary);
+    font-size: 1rem;
+    padding-left: 1rem;
+}
+
+.conhecimento:nth-child(1) {
+    grid-column: 1 / 8;
+    grid-row: 2/3 ;
+    margin-left: .5rem;
+}
+
+.conhecimento:nth-child(2) {
+    grid-column: 1 / 9;
+    grid-row: 5;
+    margin-left: .5rem;
+}
+
+.conhecimento:nth-child(5) {
+    grid-column: 10 / 17;
+    grid-row: 4;
+}
+
+.conhecimento:nth-child(4) {
+    grid-column: 10/ 17;
+    grid-row: 1;
+}
+
+
+.conhecimentos-img-wrapper {
+    display: none;
+}
+
+.conhecimento-text {
+    font-size: 1.1rem;
+}
+
+.projetos {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.card-info {
+    padding: 0;
+    opacity: 1;
+    visibility: visible;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+}
+
+.card-info button {
+    padding-left: .2rem;
+}
+
+
+.contato-wrapper {
+    width: 90%;
+    height: 35rem;
+    
+}
+
+.sessao-contato h1 {
+    width: 71%;
+    margin: auto;
+    font-family: var(--font-primary);
+    color: #272727;
+    font-size: 3rem;
+}
+
+
+.orcamento-wrapper {
+    width: 100%;
+    height: 85%;   
+    background-color: #ffffff70;
+    top: 3rem;
+    display: flex;
+    align-items: center;
+}
+
+.sessao-orcamento h1 {
+    top: -1.5rem;
+    font-size: 1.5rem;
+    width: 60%;
+    margin: auto;
+}
+
+.footer-content {
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.footer-content p {
+    font-size: 1rem;
+}
+
+#link-topo {
+    position: fixed;
+    right: 1rem;
+    bottom: 4rem;
+}
+
+}
+
