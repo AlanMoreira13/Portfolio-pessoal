@@ -1,6 +1,13 @@
 # Portfolio-pessoal
 ##
-Desenvolvi este portfólio para demonstrar algumas de minhas habilidades com html, css e javascript.
+Desenvolvi este portfólio para demonstrar algumas de minhas habilidades com HTML, CSS e JAVASCRIPT!<br>
+Tecnologias utilizadas: <br>
+✔HTML <br>
+✔CSS <br>
+✔JAVASCRIPT <br>
+✔GOOGLE FONTS <br>
+✔FIVE ICONS <br>
+link: https://alanmoreira13.github.io/Portfolio-pessoal/
 ##
 ![Captura de Tela (14)](https://user-images.githubusercontent.com/88805398/158023772-b2d530d6-a6d6-4b18-963a-d13bde86d2fc.png)
 ![Captura de Tela (15)](https://user-images.githubusercontent.com/88805398/158023775-c9b2fb55-3069-4207-bcb2-a738bc56cb0a.png)
