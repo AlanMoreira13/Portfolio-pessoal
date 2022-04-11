@@ -9,7 +9,7 @@ Tecnologias utilizadas: <br>
 ✔FIVE ICONS <br>
 link: https://alanmoreira13.github.io/Portfolio-pessoal/
 ##
-![Captura de Tela (14)](https://user-images.githubusercontent.com/88805398/158023772-b2d530d6-a6d6-4b18-963a-d13bde86d2fc.png)
+![Captura de Tela (50)](https://user-images.githubusercontent.com/88805398/162807180-d73e8905-ad9c-4e47-8ecd-50e093cc3f77.png)
 ![Captura de Tela (15)](https://user-images.githubusercontent.com/88805398/158023775-c9b2fb55-3069-4207-bcb2-a738bc56cb0a.png)
 ![Captura de Tela (16)](https://user-images.githubusercontent.com/88805398/158023777-949ab0bc-6e4a-430a-8360-575f240f0ae3.png)
 ![Captura de Tela (17)](https://user-images.githubusercontent.com/88805398/158023778-973bdb9a-299a-48b3-8d55-1bfeb94d40d8.png)
