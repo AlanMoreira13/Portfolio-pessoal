@@ -2,18 +2,10 @@
 @import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css");
 
 * {
-<<<<<<< HEAD
     margin: 0;
     padding: 0;
     list-style: none;
     text-decoration: none;
-    
-=======
-  margin: 0;
-  padding: 0;
-  list-style: none;
-  text-decoration: none;
->>>>>>> 5b30a22ea9e2c495182169bd5afe20c956a6f319
 }
 
 :root {
@@ -152,7 +144,6 @@ header {
 }
 
 .banner a {
-<<<<<<< HEAD
     color: #fff;
     transition: all 1s;
 }
@@ -177,33 +168,6 @@ header {
     border-radius: 5px;
     opacity: 0;
     animation: moveBanner 1s 0.9s forwards;
-
-=======
-  color: white;
-  transition: all 1s;
-}
-
-.banner button:hover a {
-  opacity: 0.8;
-  color: black;
-}
-
-.banner button {
-  font-family: var(--font-action);
-  font-size: 1.2rem;
-  text-transform: uppercase;
-  letter-spacing: 0.1rem;
-  cursor: pointer;
-  color: white;
-  background: #4b6cb7;
-  background: -webkit-linear-gradient(to right, #182848, #4b6cb7);
-  background: linear-gradient(to right, #182848, #4b6cb7);
-  padding: 1rem 3rem;
-  border: none;
-  border-radius: 5px;
-  opacity: 0;
-  animation: moveBanner 1s 0.9s forwards;
->>>>>>> 5b30a22ea9e2c495182169bd5afe20c956a6f319
 }
 @keyframes moveBanner {
   0% {
