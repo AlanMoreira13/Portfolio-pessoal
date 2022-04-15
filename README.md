@@ -2,11 +2,11 @@
 ##
 Desenvolvi este portfólio para demonstrar algumas de minhas habilidades com HTML, CSS e JAVASCRIPT!<br>
 Tecnologias utilizadas: <br>
-✔HTML <br>
-✔CSS <br>
-✔JAVASCRIPT <br>
-✔GOOGLE FONTS <br>
-✔FIVE ICONS <br>
+✔ HTML <br>
+✔ CSS <br>
+✔ JAVASCRIPT <br>
+✔ GOOGLE FONTS <br>
+✔ FIVE ICONS <br>
 link: https://alanmoreira13.github.io/Portfolio-pessoal/
 ##
 ![Captura de Tela (50)](https://user-images.githubusercontent.com/88805398/162807180-d73e8905-ad9c-4e47-8ecd-50e093cc3f77.png)
