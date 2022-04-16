@@ -1,6 +1,6 @@
 # Portfolio-pessoal
 ##
-Desenvolvi este portfólio para demonstrar algumas de minhas habilidades com HTML, CSS e JAVASCRIPT!<br>
+Desenvolvi este portfólio para demonstrar algumas de minhas habilidades!<br>
 Tecnologias utilizadas: <br>
 ✔ HTML <br>
 ✔ CSS <br>
