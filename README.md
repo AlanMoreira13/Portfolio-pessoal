@@ -3,7 +3,7 @@
 Desenvolvi este portfólio para demonstrar algumas de minhas habilidades!<br>
 Tecnologias utilizadas: <br>
 ✔ HTML  <br>
-✔ CSS  <br>
+✔ CSS <br>
 ✔ JAVASCRIPT <br>
 ✔ GOOGLE FONTS <br>
 ✔ FIVE ICONS <br>
