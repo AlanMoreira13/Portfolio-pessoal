@@ -1,16 +1,10 @@
-
-
 @media screen and (max-width: 440px) {
-
-
 *{
     text-decoration: none;
 }
-
 .banner {
     left: 5%;
 }    
-
 .banner h1 {
     font-size: 2.5rem;
     margin-bottom: 8rem;
@@ -114,7 +108,6 @@
 .contato-wrapper {
     width: 90%;
     height: 35rem;
-    
 }
 
 .sessao-contato h1 {
